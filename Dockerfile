@@ -1,4 +1,4 @@
-FROM isim/oraclejava:1.8.0_101
+FROM isim/oraclejava:1.8.0_181
 MAINTAINER Ivan Sim, ihcsim@gmail.com
 
 ARG VCS_REF
